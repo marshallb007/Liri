@@ -1,0 +1,27 @@
+{
+  "name": "Liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshallb007/Liri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshallb007/Liri/issues"
+  },
+  "homepage": "https://github.com/marshallb007/Liri#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "env": "0.0.2",
+    "node-spotify-api": "^1.0.7",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  }
+}
